@@ -1,1 +1,3 @@
 # hello-world
+
+What the fuck am I doing? I'm such a nerd...
